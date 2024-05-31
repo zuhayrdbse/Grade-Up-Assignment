@@ -1,4 +1,4 @@
-# Formula 1 Championship Manager
+# Formula 1 Championship Management System
 
 This Java program simulates the manipulation of a Formula 1 racing car championship. It allows users to manage drivers, teams, races, and view championship standings through a graphical user interface (GUI) based on Java Swing.
 
